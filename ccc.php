@@ -29,6 +29,8 @@ $KQ=$KQ+$k;
 }
 echo "Tích phân từ $a đến $b của hàm số đã cho là: $KQ <br>";
     echo"ma ca bonmg";
+    echo"ma ca bonmgsssss";
+    
 
 ?>
 
